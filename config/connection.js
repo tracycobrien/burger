@@ -1,6 +1,7 @@
 //Node Connection to MySQL
 
 var mysql = require ('mysql');
+var mysql=require('dotenv').config()
 
 var connection;
 
@@ -14,7 +15,7 @@ else
 	{
 		host: 'localhost',
 		user: 'root',
-		password: '',
+		password: 'root',
 		database: 'burgers_db'
 	});
 };
