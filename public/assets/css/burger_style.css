@@ -1,5 +1,5 @@
 body {
-  background-color: #00ccff;
+  background-color: #00fff2;
 }
 
 .jumbotron h1{
@@ -9,7 +9,7 @@ body {
 
 .jumbotron{
 	padding-top: 1%;
-	background-color:transparent !important;
+	background-color:transparent;
 }
 
 img {
@@ -18,5 +18,5 @@ margin-top: 5%;
 }
 
 .submitFont{
-	color: green;
+	color:black;
 }

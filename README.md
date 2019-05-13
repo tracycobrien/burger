@@ -13,9 +13,10 @@ In this assignment, I created a burger logger with MySQL, Node, Express, Handleb
 
 * Each burger in the waiting area also has a `Devour it!` button. When the user clicks it, the burger will move to the right side of the page.
 
-* 
+*  [Heroku](https://dashboard.heroku.com/apps/burger757).
 
-* [Check out this video of the app for a run-through of how it works](https://youtu.be/msvdn95x9OM).
+
+* [Github](https://github.com/tracycobrien/burger.git).
 
 ### Submission on BCS
 
@@ -24,7 +25,7 @@ In this assignment, I created a burger logger with MySQL, Node, Express, Handleb
 
 #### Directory structure will look like the diagram below:
 
-All the recommended files and directories from the steps above should look like the following structure:
+All the recommended files and directories from the steps above will look like the following structure:
 
 ```
 .

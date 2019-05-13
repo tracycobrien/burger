@@ -21,6 +21,16 @@ app.set('view engine', 'handlebars');
 var router = require('./controllers/burgers_controllers');
 app.use('/', router);
 
+// Timeout
+// app.use(timeout(15000));
+app.use(haltOnTimedout);
+
+function haltOnTimedout(req, res, next) {
+    if (!req.timedout) next();
+}
+
+
+
 
 
 app.listen(PORT, function() 
