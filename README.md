@@ -13,7 +13,7 @@ In this assignment, I created a burger logger with MySQL, Node, Express, Handleb
 
 * Each burger in the waiting area also has a `Devour it!` button. When the user clicks it, the burger will move to the right side of the page.
 
-*  [Heroku](https://dashboard.heroku.com/apps/burger757).
+*  [Heroku](https://burger757.herokuapp.com/index).
 
 
 * [Github](https://github.com/tracycobrien/burger.git).
